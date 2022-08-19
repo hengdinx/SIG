@@ -17,7 +17,7 @@
 
 目标: 维护gcc相关软件包, 保障相关软件包在deepin系统上的稳定性与兼容性.
 
-活动范围: [社区论坛](https://bbs.deepin.org/) [deepin Community](https://github.com/deepin-community/gcc/discussions) [GitHub issue](https://github.com/linuxdeepin/developer-center/issues)
+活动范围: [社区论坛](https://bbs.deepin.org/) [deepin Community](https://github.com/deepin-community/sig-gcc-packaging/discussions) [GitHub issue](https://github.com/linuxdeepin/developer-center/issues)
 
 ## 小组章程
 
@@ -27,9 +27,9 @@
 
 ## 讨论渠道
 
-- [deepin Community](https://github.com/deepin-community/gcc/discussions)
-- [邮件列表](https://www.freelists.org/list/uos-gcc-team)
+- [deepin Community](https://github.com/deepin-community/sig-gcc-packaging/discussions)
+- [邮件列表](https://www.freelists.org/list/deepin-gcc-team)
 
 ## 相关链接
 
-- [deepin gcc SIG](https://github.com/orgs/deepin-community/teams/gcc)
+- [deepin gcc SIG](https://github.com/orgs/deepin-community/teams/sig-gcc-packaging)
