@@ -10,9 +10,10 @@
 ## 小组管理员
 
 - [hengdinx](https://github.com/hengdinx)
-- [zhoupeng](zhoupeng@uniontech.com)
+- [ALTNT](https://github.com/ALTNT)
 
 ## 小组成员
 
 - hengdinx
+- ALTNT
 - zhoupeng

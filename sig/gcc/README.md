@@ -7,7 +7,7 @@
 以下五段二级标题均为必须存在的段落。小组也可根据自身需求增加其它的段落和详细的描述，但不应删除此处的四个段落。
 
 -->
-# gcc SIG
+# gcc维护打包 SIG
 
 ## 小组简介
 
@@ -32,4 +32,5 @@
 
 ## 相关链接
 
-- [deepin gcc SIG](https://github.com/orgs/deepin-community/teams/sig-gcc-packaging)
+- [deepin SIG](https://github.com/orgs/deepin-community/)
+- [GCC, the GNU Compiler Collection - GNU Project](https://gcc.gnu.org/)
