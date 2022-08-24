@@ -32,5 +32,5 @@
 
 ## 相关链接
 
-- [deepin SIG](https://github.com/orgs/deepin-community/)
+- [GCC 打包维护 SIG 对应的小组仓库](https://github.com/deepin-community/sig-gcc-packaging)
 - [GCC, the GNU Compiler Collection - GNU Project](https://gcc.gnu.org/)
